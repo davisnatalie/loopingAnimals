@@ -9,7 +9,7 @@
 
 body { 
     background-color: var(--primary-dark-color);
-    color: var(--primary-medium-color);
+    color: var(--accent-medium-color);
     text-align: center;
 }
 
