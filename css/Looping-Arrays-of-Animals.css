@@ -87,3 +87,12 @@ h2 {
 .video-player {
     padding: 50px;
 }
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .video-player {
+        padding: 50px;
+        width: 560px;
+        height: 315px;
+    }
+}
